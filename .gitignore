@@ -219,3 +219,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Trained model artifacts too large for GitHub (>100MB)
+*.pkl
